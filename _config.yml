@@ -1,0 +1,28 @@
+name: Fusion Agency
+favicon: null
+layout_spectrum: 0.13270003208890557
+typography_spectrum: 0.4219930770341307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.36856748373247683
+  lightness: 0.2671590184327215
+  saturation: 0.8317519421689212
+  rhythmicContrast: 0.3697232133708894
+purpose: []
