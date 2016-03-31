@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fusion Agency]]></title>
         <description><![CDATA[Fusion Agency]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fusion-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 13:50:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 13:53:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fusion-agency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p></p></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/fusion-agency/about/index.html</link>
             <guid isPermaLink="false">acbc9a61-ffc2-47d6-ad6f-d5aa7c32c692</guid>
-            <pubDate>Thu, 31 Mar 2016 13:50:39 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 13:53:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
