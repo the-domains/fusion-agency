@@ -4,8 +4,15 @@
         <description><![CDATA[Fusion Agency]]></description>
         <link>https://thegrid.ai/fusion-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 13:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 13:55:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fusion-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Agency]]></title>
+            <description><![CDATA[<article><h1>The Agency</h1><p>Lorem ipsum</p></article>]]></description>
+            <link>https://thegrid.ai/fusion-agency/the-agency/index.html</link>
+            <guid isPermaLink="false">e8e5a0e8-60f4-4a34-b8d3-541de646189c</guid>
+            <pubDate>Thu, 31 Mar 2016 13:55:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p></p></article>]]></description>
